@@ -3,6 +3,7 @@ module "module" {
   version = "0.0.1"
   # insert required variables here
   buck = "mktmkbucket"
+  name = "muralibuck"
 }
 
 output "bucketname" {
